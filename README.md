@@ -1,2 +1,2 @@
 # lab-agile-planning
-Цей репозиторій містить лабораторну роботу з гнучкого планування Agile
+This repository contains a lab on Agile planning
